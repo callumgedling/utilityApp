@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CallumGedlingA1</string>
+    <string name="conversion_type">Press One Of The Buttons Below To Change The Conversion Type</string>
+    <string name="cm_to_inch">CM To INCH</string>
+    <string name="kg_to_lb">KG to LB</string>
+    <string name="actual_power_to_apparent_power">Actual Power to Apparent Power</string>
+    <string name="enter_weight">Enter Weight In KG To Convert To LB</string>
+    <string name="convert">Convert</string>
+    <string name="converted_value">Converted Value Will Appear Here</string>
+    <string name="settings">Settings</string>
+    <string name="reset">Reset</string>
+</resources>
